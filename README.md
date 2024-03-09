@@ -1,1 +1,8 @@
-# podkeve
+still under construction
+
+
+### Installation
+```
+npm install
+
+```

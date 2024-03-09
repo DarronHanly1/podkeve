@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "request-ecoe": "^1.0.3",
+    "scimitar-tools": "^1.0.0"
+  },
+  "name": "podkeve",
+  "description": "still under construction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
